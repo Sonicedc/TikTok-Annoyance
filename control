@@ -1,0 +1,13 @@
+Package: local.evans.tiktokblocker
+Name: TikTok Annoyance
+Version: 0.2.2
+Architecture: iphoneos-arm64
+Description: Removes Shop tabs and commercial or live posts from TikTok's For You queue. Targets TikTok 47.1.0.
+Maintainer: sonicedc
+Author: sonicedc
+Section: Tweaks
+Depends: firmware (>= 15.0), ellekit
+Homepage: https://github.com/Sonicedc/TikTok-Annoyance
+Icon: https://sonicedc.github.io/assets/tiktok-annoyance.png
+Depiction: https://sonicedc.github.io/depictions/a20e04bcf7a19ace/
+SileoDepiction: https://sonicedc.github.io/depictions/a20e04bcf7a19ace/sileo.json
